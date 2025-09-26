@@ -168,7 +168,7 @@ CREATE TABLE `general_settings` (
 --
 
 INSERT INTO `general_settings` (`id`, `logo`, `school_name`, `school_year`, `copyright`) VALUES
-(1, NULL, 'SMK 1 Indonesia', '2024/2025', '© 2025 All rights reserved.');
+(1, NULL, 'SMK Swasta Harapan Bangsa Kuala', '2025/2026', '© 2025 All rights reserved.');
 
 -- --------------------------------------------------------
 
