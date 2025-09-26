@@ -158,8 +158,8 @@ CREATE TABLE `auth_users_permissions` (
 CREATE TABLE `general_settings` (
   `id` int UNSIGNED NOT NULL,
   `logo` varchar(225) DEFAULT NULL,
-  `school_name` varchar(225) DEFAULT 'SMK 1 Indonesia',
-  `school_year` varchar(225) DEFAULT '2024/2025',
+  `school_name` varchar(225) DEFAULT 'SMK Swasta Harapan Bangsa Kuala',
+  `school_year` varchar(225) DEFAULT '2025/2026',
   `copyright` varchar(225) DEFAULT '© 2025 All rights reserved.'
 ) ENGINE=InnoDB DEFAULT CHARSET=utf8mb3;
 
